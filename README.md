@@ -6,7 +6,7 @@
 
 **See what your AI agents actually do on your Mac.**<br>
 Every command they run, file they read or change, place they connect to and permission they hold,<br>
-attributed to the agent that did it and explained in plain English.
+attributed to the agent that did it.
 
 <a href="https://github.com/0xVulcan/Ranger/releases/download/v0.7.0-alpha.1/Ranger-0.7.0-alpha.1.dmg"><img src="images/download-mac.svg" alt="Download for Mac" height="52"></a>
 
@@ -29,7 +29,7 @@ blocks, changes or uploads anything.
 
 ## What you get
 
-- **Activity.** A live, plain-English feed: *"Claude Code ran `git push origin main`"*,
+- **Activity.** A live feed of what happened: *"Claude Code ran `git push origin main`"*,
   *"Cursor modified 3 files in `~/code/app/src/api`"*. Filter by agent, type, severity and action,
   and open any line to see the process tree, files and connections behind it.
 - **Agents.** What each agent did today or this week: commands, files changed, connections, the
@@ -37,8 +37,8 @@ blocks, changes or uploads anything.
 - **Alerts.** Credential reads and copies, new startup items, administrator rights, code
   injection, kernel extensions and permission changes. Repeats fold into one row, and anything
   can be muted.
-- **Permissions.** Which privacy permissions each agent and terminal holds, in plain English,
-  with when Ranger first saw each one and how it changed.
+- **Permissions.** Which privacy permissions each agent and terminal holds, what each one
+  allows, when Ranger first saw it and how it changed.
 - **Network.** Every destination, grouped by the network that owns it, with unusual ports and
   unknown owners called out.
 - **Your rules.** Watch any app or command-line tool, choose which macOS events to record, and
