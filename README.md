@@ -58,6 +58,11 @@ blocks, changes or uploads anything.
 
 The DMG includes a *Read me first* with details, troubleshooting and how to uninstall.
 
+## Command line
+
+Ranger also ships a command-line tool for logs, connections, permissions and exports.
+See the [command-line guide](CLI.md).
+
 ## Private by design
 
 - Everything stays on your Mac. Nothing is uploaded, and there is no account.
